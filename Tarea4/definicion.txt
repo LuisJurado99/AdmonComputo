@@ -1,0 +1,10 @@
+Es la creación de una estructura, la cual determine las jerarquías necesarias y agrupación de actividades, 
+con el fin de simplificar las mismas y sus funciones dentro del grupo social.
+Ubicación física dentro de la El lugar donde debe estar ubicado el centro de cómputo debe de cumplir una serie de requisitos de entre los cuales podemos mencionar los siguientes: 
+	Organización. 
+	Estar situado en un lugar donde no pueda acceder personal no autorizado. 
+	Que no entre mucha luz natural.
+	Debe haber aire acondicionado.
+	No debe haber entradas de aire natural
+	Extinguidores 
+	Ruta de evacuación, etc.
