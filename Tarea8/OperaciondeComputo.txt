@@ -1,0 +1,19 @@
+-Realizar las copias de respaldo (back-up) de la información y procesos de
+cómputo que se realizan en la Dirección, conforme a parámetros
+preestablecidos.
+
+Ejemplo: Despues del horario laboral se recomienta hacer un back-up para 
+tener la informacion mas importante se genera un back de los datos unicamente 
+mas importantes en una base secundaria para no sobre cargar la misma
+
+-Llevar registros de fallas, problemas, soluciones, acciones desarrolladas,
+respaldos, recuperaciones y trabajos realizados.
+
+Ejemplo: Manejar registros con distintos softwares o procesos de bitacoras para
+detectar ataques, y un protocolo para desastres en caso de que el sistema
+sea vulnerado o atacado para tener tiempos y momentos oportunos de reacion
+
+-Mantener informado al jefe inmediato sobre el funcionamiento del centro de
+cómputo.
+Ejemplo: En el caso de algun ataque, el jefe del grupo debe tener contacto directo
+con el personal para poder ejecutar planes secundarios de acciones, etc.
